@@ -6,7 +6,7 @@ This repository contains python code for processing, analysing and visualising t
 
 1.  Sentinel-2 Data, downloaded from Google Earth Engine (GEE)
 
-2.  UKCEH Land Cover Map 2021 10 m resolution from <https://www.ceh.ac.uk/data/ukceh-land-cover-maps>
+2.  UKCEH Land Cover Map 2021 10 m resolution from <https://digimap.edina.ac.uk/>
 
     **Contact**: [bp424\@exeter.ac.uk](mailto:bp424@exeter.ac.uk){.email}
 
