@@ -1,6 +1,6 @@
 # HabitatMapping_UK
 
-This repository contains python code for processing, analysing and visualising the data presented in \*"Leveraging Remote Sensing for On-Ground Biodiversity Net Gain Assessments"\* by Brianna Pickstone for the Term 1 Assessment UKRI Centre for Doctoral Training in Environmental Intelligence .
+This repository contains python code for processing, analysing and visualising the data presented in *"Leveraging Remote Sensing for On-Ground Biodiversity Net Gain Assessments"* by Brianna Pickstone for the Term 1 Assessment UKRI Centre for Doctoral Training in Environmental Intelligence.
 
 **Data Source:** This study uses a combination of data:
 
