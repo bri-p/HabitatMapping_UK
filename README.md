@@ -14,6 +14,8 @@ This repository contains python code for processing, analysing and visualising t
 
 **This repository contains the following scripts:**
 
-*Download_S2.ipynb* This script contains code for downloading the Sentinel-2 Data from the GEE for the required location in 2021 and 2023.
+*Download_S2.ipynb* This script contains code for downloading the Sentinel-2 Data from the GEE for the required location in 2021 and 2023
+
 *Preprocessing.ipynb* This script contains the code for preprocessing the Sentinel-2 and UKCEH data, including the calculation of vegetation indices
+
 *Initial_Analysis.ipynb* This script contains the code for using Random Forest to classify land cover
